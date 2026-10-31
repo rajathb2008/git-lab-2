@@ -1,1 +1,3 @@
 Hai
+Hello! This is Student B. I am contributing to the Git collaboration experiment.
+Hello! This is Student B
