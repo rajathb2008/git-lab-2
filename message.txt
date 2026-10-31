@@ -1,3 +1,6 @@
 Hai
+<<<<<<< HEAD
 Hello! This is Student B. I am contributing to the Git collaboration experiment.
 Hello! This is Student B
+=======
+>>>>>>> 56400b3931e3c3570b4fe419aaee3a46cd34f4e6
